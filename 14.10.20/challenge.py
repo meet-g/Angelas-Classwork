@@ -23,7 +23,7 @@ def subtraction():
     two_numbers_subtracted = rand1
     two_numbers_subtracted -= rand2
     # subtract
-    print("{} subtracted by {}".format(ran1, rand2))
+    print("{} subtracted by {}".format(rand1, rand2))
     # tell user the two numbers
     if int(input("What do the two numbers subtract to?")) == two_numbers_subtracted:
         # if correct tell user

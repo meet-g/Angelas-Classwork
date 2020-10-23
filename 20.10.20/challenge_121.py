@@ -20,6 +20,8 @@ while True:
 
 """
 
+# Commented out, using functions below
+
 class loop():
     def __init__(self):
         self.names = []
